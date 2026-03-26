@@ -19,5 +19,6 @@ Analisar o desempenho de vendas e gerar insights estratégicos para apoio à tom
 - A categoria Furniture apresenta maior volume de vendas
 - Subcategorias como Bookcases e Chairs se destacam
 
-## 📷 Dashboard
-(adicione aqui a imagem do dashboard)
+## ## 📷 Dashboard
+
+![Dashboard](dashboard.png)
